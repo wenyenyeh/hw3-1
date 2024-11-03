@@ -1,4 +1,8 @@
 # hw3-1
+1.在終端機安裝 Streamlit:`pip install streamlit`
+2.啟動 Streamlit 應用程式:`streamlit run app.py`
+
+
 Create a simple interactive web app that compares logistic regression and support vector machine (SVM) models on a 1-dimensional dataset. Use Streamlit to deploy the app:</br>
 
 1.Visualize a 1D classification dataset with data points labeled as two classes.</br>
