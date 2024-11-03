@@ -1,5 +1,5 @@
 # hw3-1
-1.在終端機安裝 Streamlit:`pip install streamlit`:</br>
+1.在終端機安裝 Streamlit:`pip install streamlit`</br>
 2.啟動 Streamlit 應用程式:`streamlit run app.py`
 
 </hr>
